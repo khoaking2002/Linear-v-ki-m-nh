@@ -1,0 +1,3 @@
+Prediction of test 1: -10116.92657
+Prediction of test 2: -10102.48955
+Prediction of test 3: -9678.39619

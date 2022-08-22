@@ -1,0 +1,8 @@
+numpy
+ updateFull
+pandas
+seaborn
+=======
+matplotlib
+pandas
+master
